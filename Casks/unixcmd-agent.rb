@@ -1,6 +1,6 @@
 cask "unixcmd-agent" do
-  version "0.1.0"
-  sha256 "6db5202d29a4138a21fdfacead3af592f23d53ae8274aa2b18ce1898c78a1267"
+  version "0.2.0"
+  sha256 "30f59beff5cf48c1d1fb21fd16f7f449ce8f03cbcd42f5edde64295f77133bad"
 
   url "https://github.com/unixcmd/homebrew-tap/releases/download/v#{version}/unixcmd-agent-#{version}.pkg"
   name "UnixCMD agent"
